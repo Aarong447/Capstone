@@ -1,0 +1,22 @@
+body{font-family: sans-serif;
+} 
+
+nav a{
+    margin: 0.5em;
+    padding: 0.5em;
+    background-color: blue;
+    color:white;
+}
+#login{
+  color: darkgray;
+}
+.box{ 
+    border:1pm solid black;
+    margin: 6em;
+    padding: 3em;
+}
+
+.login-form{
+    display: flex;
+    flex-direction: column;
+}
